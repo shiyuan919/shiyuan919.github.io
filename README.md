@@ -1,9 +1,9 @@
 # shiyuan919.github.io
 網頁作品集
 
-w001.;
-https://shiyuan919.github.io/180520/;
-練習作品，內容為與家人的出遊日記，純HTML，側邊選項;
+w001.<br>
+https://shiyuan919.github.io/180520/<br> 
+練習作品，內容為與家人的出遊日記，純HTML，側邊選項<br>
 
 w002./
 https://shiyuan919.github.io/180521/ /n
